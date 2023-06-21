@@ -1,7 +1,6 @@
 .cache
 cjs
 coverage
-dist
 esm
 example/dist
 node_modules
